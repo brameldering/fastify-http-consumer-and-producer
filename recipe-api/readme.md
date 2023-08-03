@@ -1,0 +1,3 @@
+Create a self-signed certificate:
+
+openssl req -nodes -new -x509 -keyout recipe-api/tls/basic-private-key.key -out shared/tls/basic-certificate.cert
