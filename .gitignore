@@ -1,5 +1,4 @@
-/consumer-http-basic/node_modules
-/producer-http-basic/node_modules
-/recipe-api/node_modules
-/recipe-api/tls
-/web-api/node_modules
+/consumer/node_modules
+/producer/node_modules
+/producer/tls
+/haproxy/private.key
