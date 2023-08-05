@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "3.2"
+    "fastify": "3.2",
+    "zipkin-lite": "^0.1.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
