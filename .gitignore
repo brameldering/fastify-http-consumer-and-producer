@@ -2,3 +2,5 @@
 /producer/node_modules
 /producer/tls
 /haproxy/private.key
+/haproxy/certificate.cert
+/haproxy/combined.pem
